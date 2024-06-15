@@ -1,11 +1,8 @@
-## Hey there! I'm Sally 👋
-
+## Hello World! 👋
+<img src="https://capsule-render.vercel.app/api?type=venom&color=7F3FBF&height=300&section=header&text=capsule%20render&fontSize=90" />
 <a href="https://komarev.com/ghpvc/?username=yugo9081">
   <img align="right" src="https://komarev.com/ghpvc/?username=yugo9081&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
-
-
-[![wakatime](https://wakatime.com/badge/user/eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc.svg)](https://wakatime.com/@eebb3dd8-d9b2-40de-9b88-6fd6cac99dbc)
 
 <!-- Intro  -->
 <h3 align="center">
@@ -18,7 +15,7 @@
 <p align="center"> 
   <samp>
     <br>
-    「 I am a full stack developer from <b>Austin, Texas</b> 」
+    「 I am a Full Stack Developer from <b>Austin, Texas</b> 」
     <br>
     <br>
   </samp>
@@ -43,9 +40,9 @@
 <p>
  <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
   
- 🌱 &emsp; Enjoy to do programming and sharing knowledge! <br/><br/>
- ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- ⚡ &emsp; Currently, learning AI and Machine Learning
+ 🌱 &emsp; Enjoy to do programming and learning new features! <br/><br/>
+ ❤️ &emsp; Some technologies I enjoy working with include Java, Python3, Javascript, and HTML/CSS <br/><br/>
+ ⚡ &emsp; Currently, learning AI and Machine Learning<br/><br/>
  📫 &emsp; Reach me anytime: yubin.sally.go@gmail.com<br/><br/>
 
 </p>
@@ -54,7 +51,7 @@
 <br/>
 <br/>
 
-## Use To Code
+## Skills
 
 ![Javascript](https://img.shields.io/badge/Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
