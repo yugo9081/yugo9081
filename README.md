@@ -33,7 +33,7 @@
 <br />
 
 <!-- About Section -->
- # :star2: About me
+ # About me :fire:
  
 <p>
 <img align=right src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="350">
@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-## Technologies & Tools
+## Technologies & Tools :hammer_and_wrench:
 
 Everyday Use (Advanced)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)   
@@ -105,7 +105,7 @@ Everyday Use (Advanced)
 
 <br/>
 
-## Top Open Source -
+## Top Open Source :beginner:
 [![Right-Click-Save-As](https://github-readme-stats.vercel.app/api/pin/?username=yugo9081&repo=Right-Click-Save-As&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yugo9081/Right-Click-Save-As)
 [![wine-classification](https://github-readme-stats.vercel.app/api/pin/?username=yugo9081&repo=wine-classification&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yugo9081/wine-classification)
 [![Battleship](https://github-readme-stats.vercel.app/api/pin/?username=yugo9081&repo=Battleship-Team-ApplePair&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/yugo9081/Battleship-Team-ApplePair)
