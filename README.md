@@ -1,4 +1,3 @@
-## Hello World! 👋
 <a href="https://komarev.com/ghpvc/?username=yugo9081">
   <img align="right" src="https://komarev.com/ghpvc/?username=yugo9081&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
@@ -6,11 +5,10 @@
 <!-- Intro  -->
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://yugo9081.github.io/Sally_Yubin_Go/">Sally Go</a></b>
+                <b><a target="_blank" href="https://yugo9081.github.io/Sally_Yubin_Go/">Sally Go</a> 👋</b>
         </samp>
 </h3>
-<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
-<br><br>
+
 
 <p align="center"> 
   <samp>
@@ -46,7 +44,8 @@
  📫 &emsp; Reach me anytime: yubin.sally.go@gmail.com<br/><br/>
 
 </p>
-
+<img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="500">
+<br><br>
 <br/>
 <br/>
 <br/>
