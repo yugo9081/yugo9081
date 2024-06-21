@@ -39,8 +39,8 @@
 <img align=right src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" width="350">
   
  🌱 &emsp; Enjoy programming and learning new features! <br/><br/>
- ❤️ &emsp; Like to Code with Java, Python3, Javascript, and HTML/CSS <br/><br/>
- ⚡ &emsp; Currently, learning AI and Machine Learning<br/><br/>
+ ❤️ &emsp; Like to code with Java, Python3, Javascript, and HTML/CSS <br/><br/>
+ ⚡ &emsp; Currently learning AI and Machine Learning<br/><br/>
  📫 &emsp; Reach me anytime: yubin.sally.go@gmail.com<br/><br/>
 
 </p>
